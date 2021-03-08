@@ -63,5 +63,11 @@ ul {
 }
 
 .footer {
-  text-align: end;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.logo {
+  width: 150px;
 }
